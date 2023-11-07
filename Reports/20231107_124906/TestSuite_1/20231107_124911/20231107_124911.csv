@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_1,,,,2023-11-07 12:49:18,2023-11-07 12:49:18,0.299s,PASSED
+,,,,,,,
+Test Cases/Test_Case_1,,,,2023-11-07 12:49:18,2023-11-07 12:49:18,0.161s,PASSED
+"println(""start process"")",,,,2023-11-07 12:49:18,2023-11-07 12:49:18,0.004s,PASSED
+"println(""start process"")",,,,2023-11-07 12:49:18,2023-11-07 12:49:18,0.000s,PASSED
